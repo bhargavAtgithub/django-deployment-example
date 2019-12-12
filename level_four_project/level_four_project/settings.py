@@ -26,7 +26,7 @@ SECRET_KEY = 'z3z_6oi5id%a^xmd4-_0degvq1zb+!r^qs6a=xls=^tugt1q-#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['thecoffeecup.pythonanywhere.com']
 
 
 # Application definition
